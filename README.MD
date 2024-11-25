@@ -41,13 +41,13 @@ Este programa está escrito en Python y requiere la instalación de Python 3.7 o
 
    ```bash
    git clone https://github.com/YagoGomez83/Trabajo-N--4-Calidad-de-Software
-   cd evaluador-alumnos
+   
    ```
 
 2. **Ejecuta el script principal:**
 
    ```bash
-   python evaluador.py
+   python tp4.py
    ```
 
 3. **Personaliza los casos de prueba o modifica las entradas en el código para adaptarlos a tus necesidades.**
